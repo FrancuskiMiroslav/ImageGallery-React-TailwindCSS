@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ImageGallery-React-TailwindCSS/static/css/main.292fa60a.chunk.css",
-    "main.js": "/ImageGallery-React-TailwindCSS/static/js/main.91512d98.chunk.js",
-    "main.js.map": "/ImageGallery-React-TailwindCSS/static/js/main.91512d98.chunk.js.map",
+    "main.js": "/ImageGallery-React-TailwindCSS/static/js/main.319b6806.chunk.js",
+    "main.js.map": "/ImageGallery-React-TailwindCSS/static/js/main.319b6806.chunk.js.map",
     "runtime-main.js": "/ImageGallery-React-TailwindCSS/static/js/runtime-main.3e83a827.js",
     "runtime-main.js.map": "/ImageGallery-React-TailwindCSS/static/js/runtime-main.3e83a827.js.map",
     "static/js/2.bab4fe11.chunk.js": "/ImageGallery-React-TailwindCSS/static/js/2.bab4fe11.chunk.js",
     "static/js/2.bab4fe11.chunk.js.map": "/ImageGallery-React-TailwindCSS/static/js/2.bab4fe11.chunk.js.map",
     "index.html": "/ImageGallery-React-TailwindCSS/index.html",
-    "precache-manifest.f059ae6c70244f7f8f3a07178eca645b.js": "/ImageGallery-React-TailwindCSS/precache-manifest.f059ae6c70244f7f8f3a07178eca645b.js",
+    "precache-manifest.4a5b26707fd22f3c1afd843258019055.js": "/ImageGallery-React-TailwindCSS/precache-manifest.4a5b26707fd22f3c1afd843258019055.js",
     "service-worker.js": "/ImageGallery-React-TailwindCSS/service-worker.js",
     "static/css/main.292fa60a.chunk.css.map": "/ImageGallery-React-TailwindCSS/static/css/main.292fa60a.chunk.css.map",
     "static/js/2.bab4fe11.chunk.js.LICENSE.txt": "/ImageGallery-React-TailwindCSS/static/js/2.bab4fe11.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3e83a827.js",
     "static/js/2.bab4fe11.chunk.js",
     "static/css/main.292fa60a.chunk.css",
-    "static/js/main.91512d98.chunk.js"
+    "static/js/main.319b6806.chunk.js"
   ]
 }
